@@ -1,4 +1,4 @@
-'''blah'''
+'''Module set up to help conversions from any setup into seconds'''
 
 import time
 
@@ -14,7 +14,7 @@ def hours_to_minutes( hours: str ) -> int:
 
 
 def hhmm_to_seconds( hhmm: str ) -> int:
-    '''blah'''
+    '''Converts hours and minutes to seconds'''
     if len(hhmm.split(':')) != 2:
         print('Incorrect format. Argument must be formatted as HH:MM')
         return None
@@ -23,7 +23,7 @@ def hhmm_to_seconds( hhmm: str ) -> int:
 
 
 def hhmmss_to_seconds( hhmmss: str ) -> int:
-    '''blah'''
+    '''Converts hours, minutes and seconds into seconds'''
     if len(hhmmss.split(':')) != 3:
         print('Incorrect format. Argument must be formatted as HH:MM:SS')
         return None
@@ -32,5 +32,5 @@ def hhmmss_to_seconds( hhmmss: str ) -> int:
 
 
 def current_time_hhmm():
-    '''blah'''
+    '''Gets the current time by requesting it from the time namespace'''
     return str(time.gmtime().tm_hour) + ":" + str(time.gmtime().tm_min)

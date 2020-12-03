@@ -1,5 +1,5 @@
 '''
-    balh
+    Continuous Assessmnent 3: alarm program: Sam Judges
 '''
 
 import sched
@@ -101,6 +101,7 @@ def announce(announcement: str,weather: str) -> None:
 @app.route('/index')
 def index():
     '''This is the function that runs while once the user has set their first alarm
+    
     first, gathering all of the relevant data from the url
     then, checking if an alarm was set and if so setting it
     next, checking if the user requested the news and if so retrieving it
