@@ -30,6 +30,9 @@ After that it should be easy to use
 # Testing
 Testing can be reached at test_module.py
 # Details
+Name: alarmprogram
 Author: Sam Judges
-Liscense:
+Liscense: OSI, MIT
+Python: 3
+Operating System: OS independent
 Link to source: https://github.com/sj507/alarmprogram
