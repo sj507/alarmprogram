@@ -1,0 +1,6 @@
+DEBUG:2020-12-03 16:57:40,622 Calling CoUnititialize()
+DEBUG:2020-12-03 16:57:40,622 CoUnititialize() done.
+INFO:2020-12-03 16:57:44,162 server initialised
+INFO:2020-12-03 16:57:44,197  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:2020-12-03 16:57:45,213 Calling CoUnititialize()
+DEBUG:2020-12-03 16:57:45,214 CoUnititialize() done.

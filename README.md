@@ -18,7 +18,7 @@ The aim was to build a small alarm program to be run on a local server using htm
 + pip install flask
 + pip install uk_covid19 
 + pip install pyttsx3
-+ the rest is already avalible if you have python
+the rest is already avalible if you have python
 # Getting started
 + The entire program can be run from CA3.py
 + The rest is dependencies, logs, config files, images, etc
