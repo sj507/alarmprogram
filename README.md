@@ -1,5 +1,5 @@
 # Introduction
-the aim was to build a small alarm program to be run on a local server using html on the front and python on the back using flask.
+The aim was to build a small alarm program to be run on a local server using html on the front and python on the back using flask.
 
 # Prerequisites
 ### built in
@@ -30,3 +30,6 @@ After that it should be easy to use
 # Testing
 Testing can be reached at test_module.py
 # Details
+Author: Sam Judges
+Liscense:
+Link to source: https://github.com/sj507/alarmprogram
