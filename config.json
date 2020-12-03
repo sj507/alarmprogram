@@ -1,0 +1,22 @@
+{
+    "city":"Exeter",
+    "news_api_key":"bbf2b43657414bcc8d85cb0f71534934",
+    "news_source":"bbc-news",
+    "weather_api_key":"ff29ab5cf9b7c5aa26d00560b9d4e5f6",
+
+    "england_only" : [
+        "areaType=nation",
+        "areaName=England",
+        "date=2020-11-30"
+    ],
+    
+    "cases_and_deaths" : {
+        "date": "date",
+        "areaName": "areaName",
+        "areaCode": "areaCode",
+        "newCasesByPublishDate": "newCasesByPublishDate",
+        "cumCasesByPublishDate": "cumCasesByPublishDate",
+        "newDeathsByDeathDate": "newDeathsByDeathDate",
+        "cumDeathsByDeathDate": "cumDeathsByDeathDate"
+    }
+}
